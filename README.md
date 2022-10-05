@@ -2,6 +2,10 @@
 
 This notebook includes examples for studying and quantifying advantages of qunatum computing.
 
+### References
+- [Qiskit Quantum Machine Learning](https://learn.qiskit.org/course/machine-learning/introduction)
+- [D-Wave Ocean Getting Started](https://docs.ocean.dwavesys.com/en/stable/getting_started.html)
+
 ### Requirement to run examples
 - Install Google [OR-Tools](https://developers.google.com/optimization/install)
 - Install D-Wave [Ocean tool](https://docs.ocean.dwavesys.com/en/stable/overview/install.html)
